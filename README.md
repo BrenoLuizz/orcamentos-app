@@ -1,5 +1,4 @@
 📱 Sistema de Orçamentos
-
 Aplicativo mobile desenvolvido com React Native, Expo e TypeScript para gerenciamento de orçamentos de serviços. O sistema permite criar, editar, duplicar e excluir orçamentos, além de calcular automaticamente valores como subtotal, desconto e total final, com persistência local dos dados.
 
 🚀 Demonstração
@@ -9,9 +8,9 @@ O aplicativo foi projetado com foco em usabilidade, organização das informaç�
 ✨ Funcionalidades
 
 📋 Listagem de Orçamentos
+
 Visualização de todos os orçamentos cadastrados.
 Exibição de informações essenciais: cliente, título, status e valor total.
-
 Filtro por status (Rascunho, Enviado, Aprovado e Recusado).
 Ordenação por data ou valor.
 
@@ -40,10 +39,13 @@ Duplicação de orçamentos.
 Exclusão com confirmação.
 
 Atualização automática dos dados.
+
 💾 Persistência Local
+
 Armazenamento dos dados utilizando AsyncStorage, garantindo que as informações permaneçam salvas mesmo após o fechamento do aplicativo.
 
 🎨 Interface Intuitiva
+
 Componentes reutilizáveis.
 
 Hierarquia visual clara.
