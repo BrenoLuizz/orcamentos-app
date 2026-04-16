@@ -11,6 +11,7 @@ O aplicativo foi projetado com foco em usabilidade, organização das informaç�
 📋 Listagem de Orçamentos
 Visualização de todos os orçamentos cadastrados.
 Exibição de informações essenciais: cliente, título, status e valor total.
+
 Filtro por status (Rascunho, Enviado, Aprovado e Recusado).
 Ordenação por data ou valor.
 
