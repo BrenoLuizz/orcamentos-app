@@ -15,15 +15,18 @@ Filtro por status (Rascunho, Enviado, Aprovado e Recusado).
 Ordenação por data ou valor.
 
 📝 Criação e Edição
+
 Cadastro de título e cliente.
 Definição do status do orçamento.
 Adição e remoção de serviços.
 Definição de desconto percentual.
+
 💰 Cálculos Automáticos
 
 Subtotal dos serviços.
 Valor do desconto.
 Total final do orçamento.
+
 🔁 Ações Adicionais
 
 Duplicação de orçamentos.
